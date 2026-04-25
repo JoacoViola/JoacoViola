@@ -71,7 +71,7 @@ Worked on document ingestion, embeddings and semantic similarity systems using v
 ## 📫 Contact
 
 📍 Montevideo, Uruguay  
-📧 violajoaquinviola@gmail.com  
+📧 Mail: violajoaquinviola@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/joaqu%C3%ADn-viola-briozzo-3719613a1/  
 🐙 GitHub: https://github.com/JoacoViola
 
